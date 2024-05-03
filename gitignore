@@ -1,0 +1,8 @@
+/build/
+/bin/
+.settings
+.classpath
+.project
+src/main/webapp/WEB-INF/lib
+context.xml
+/docs/
